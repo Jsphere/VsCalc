@@ -1,0 +1,11 @@
+C:\Users\Justin\documents\visual studio 2010\Projects\CalcExample\CalcExample\bin\Release\CalcExample.exe.manifest
+C:\Users\Justin\documents\visual studio 2010\Projects\CalcExample\CalcExample\bin\Release\CalcExample.application
+C:\Users\Justin\documents\visual studio 2010\Projects\CalcExample\CalcExample\bin\Release\CalcExample.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\CalcExample\CalcExample\bin\Release\CalcExample.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\CalcExample\CalcExample\obj\x86\Release\CalcExample.Form1.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\CalcExample\CalcExample\obj\x86\Release\CalcExample.Properties.Resources.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\CalcExample\CalcExample\obj\x86\Release\CalcExample.csproj.GenerateResource.Cache
+C:\Users\Justin\documents\visual studio 2010\Projects\CalcExample\CalcExample\obj\x86\Release\CalcExample.exe.manifest
+C:\Users\Justin\documents\visual studio 2010\Projects\CalcExample\CalcExample\obj\x86\Release\CalcExample.application
+C:\Users\Justin\documents\visual studio 2010\Projects\CalcExample\CalcExample\obj\x86\Release\CalcExample.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\CalcExample\CalcExample\obj\x86\Release\CalcExample.pdb
